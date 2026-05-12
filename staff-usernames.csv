@@ -1,0 +1,13 @@
+name,role,username,platform_hint
+Marta Silva,CEO,msilva,linkedin
+Tiago Nunes,Red Team Lead,tnunes,github
+Inês Carvalho,SOC Manager,icarvalho,twitter
+Ana Ribeiro,OSINT Analyst,aribeiro,reddit
+Beatriz Rocha,Purple Team Coordinator,brocha,instagram
+Ricardo Lopes,Malware Researcher,rlopes,github
+Daniel Ferreira,Digital Forensics Specialist,dferreira,discord
+Pedro Correia,Reverse Engineering Analyst,pcorreia,youtube
+Luís Almeida,Threat Hunter,lalmeida,x
+Carolina Mendes,Threat Intelligence Analyst,cmendes,medium
+
+RSC{github_staff_usernames_found}
