@@ -1,0 +1,18 @@
+ShadowGate Legacy Contact Archive
+---------------------------------
+
+Archived operational contacts recovered from old infrastructure.
+
+Primary SOC:
+icarvalho@shadowgate.com
+
+Threat Intel:
+aribeiro@shadowgate.com
+
+Old staging reference:
+mirror-shadowgate.onion
+
+Temporary analyst note:
+"legacy systems are rarely truly deleted"
+
+RSC{legacy_contact_archive}
