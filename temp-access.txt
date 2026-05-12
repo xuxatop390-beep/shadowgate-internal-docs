@@ -1,0 +1,14 @@
+ShadowGate Temporary Access Notes
+
+VPN Gateway:
+vpn.shadowgate-training.net
+
+Temporary Analyst Token:
+SG-DEV-8821-ALPHA
+
+Legacy Onion Reference:
+shadowgate-mirror.onion
+
+RSC{commit_history_flag}
+
+This file should be removed before public release.
